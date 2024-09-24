@@ -1,0 +1,4 @@
+{
+  "name": "Publish to Spacedock",
+  "description": "Uploads a release to Spacedock whenever a github release is published"
+}
