@@ -1,0 +1,4 @@
+{
+  "name": "Validate CFG Files",
+  "description": "Checks for errors in cfg files"
+}
